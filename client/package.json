@@ -20,7 +20,7 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.1.4",
     "sass": "^1.22.2",
-    "styled-components": "^4.3.2"
+    "styled-components": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
